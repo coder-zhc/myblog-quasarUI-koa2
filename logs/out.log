@@ -1,0 +1,6 @@
+2021-08-13 23:56:54:   <-- GET /api/blog/list?isadmin=1&keyword=s
+2021-08-13 23:56:54: is admin
+2021-08-13 23:56:54:   --> GET /api/blog/list?isadmin=1&keyword=s 200 25ms 113b
+2021-08-13 23:56:57:   <-- GET /api/blog/list?isadmin=1
+2021-08-13 23:56:57: is admin
+2021-08-13 23:56:57:   --> GET /api/blog/list?isadmin=1 200 5ms 324b
